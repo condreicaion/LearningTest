@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="18" passed="18">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="53926" started-at="2020-06-23T23:55:24 EEST" finished-at="2020-06-23T23:56:18 EEST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="53926" started-at="2020-06-23T23:55:24 EEST" finished-at="2020-06-23T23:56:18 EEST">
+      <class name="test_GRID.testDP_Thread">
+        <test-method status="PASS" signature="openGoogle(java.lang.String)[pri:0, instance:test_GRID.testDP_Thread@9660f4e]" name="openGoogle" duration-ms="13779" started-at="2020-06-23T23:55:24 EEST" data-provider="dp1" finished-at="2020-06-23T23:55:38 EEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGoogle -->
+        <test-method status="PASS" signature="openGoogle(java.lang.String)[pri:0, instance:test_GRID.testDP_Thread@9660f4e]" name="openGoogle" duration-ms="52284" started-at="2020-06-23T23:55:24 EEST" data-provider="dp1" finished-at="2020-06-23T23:56:17 EEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGoogle -->
+        <test-method status="PASS" signature="openGoogle(java.lang.String)[pri:0, instance:test_GRID.testDP_Thread@9660f4e]" name="openGoogle" duration-ms="12981" started-at="2020-06-23T23:55:24 EEST" data-provider="dp1" finished-at="2020-06-23T23:55:37 EEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGoogle -->
+        <test-method status="PASS" signature="openGoogle(java.lang.String)[pri:0, instance:test_GRID.testDP_Thread@9660f4e]" name="openGoogle" duration-ms="10545" started-at="2020-06-23T23:55:24 EEST" data-provider="dp1" finished-at="2020-06-23T23:55:35 EEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGoogle -->
+        <test-method status="PASS" signature="openGoogle(java.lang.String)[pri:0, instance:test_GRID.testDP_Thread@9660f4e]" name="openGoogle" duration-ms="18982" started-at="2020-06-23T23:55:24 EEST" data-provider="dp1" finished-at="2020-06-23T23:55:43 EEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGoogle -->
+        <test-method status="PASS" signature="openGoogle(java.lang.String)[pri:0, instance:test_GRID.testDP_Thread@9660f4e]" name="openGoogle" duration-ms="20059" started-at="2020-06-23T23:55:24 EEST" data-provider="dp1" finished-at="2020-06-23T23:55:44 EEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGoogle -->
+        <test-method status="PASS" signature="openGoogle(java.lang.String)[pri:0, instance:test_GRID.testDP_Thread@9660f4e]" name="openGoogle" duration-ms="14917" started-at="2020-06-23T23:55:24 EEST" data-provider="dp1" finished-at="2020-06-23T23:55:39 EEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGoogle -->
+        <test-method status="PASS" signature="openGoogle(java.lang.String)[pri:0, instance:test_GRID.testDP_Thread@9660f4e]" name="openGoogle" duration-ms="11802" started-at="2020-06-23T23:55:24 EEST" data-provider="dp1" finished-at="2020-06-23T23:55:36 EEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGoogle -->
+        <test-method status="PASS" signature="openGoogle(java.lang.String)[pri:0, instance:test_GRID.testDP_Thread@9660f4e]" name="openGoogle" duration-ms="35485" started-at="2020-06-23T23:55:24 EEST" data-provider="dp1" finished-at="2020-06-23T23:56:00 EEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGoogle -->
+        <test-method status="PASS" signature="openGoogle(java.lang.String)[pri:0, instance:test_GRID.testDP_Thread@9660f4e]" name="openGoogle" duration-ms="11318" started-at="2020-06-23T23:55:24 EEST" data-provider="dp1" finished-at="2020-06-23T23:55:36 EEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGoogle -->
+        <test-method status="PASS" signature="openGoogle(java.lang.String)[pri:0, instance:test_GRID.testDP_Thread@9660f4e]" name="openGoogle" duration-ms="10605" started-at="2020-06-23T23:55:24 EEST" data-provider="dp1" finished-at="2020-06-23T23:55:35 EEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGoogle -->
+        <test-method status="PASS" signature="openGoogle(java.lang.String)[pri:0, instance:test_GRID.testDP_Thread@9660f4e]" name="openGoogle" duration-ms="36726" started-at="2020-06-23T23:55:24 EEST" data-provider="dp1" finished-at="2020-06-23T23:56:01 EEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGoogle -->
+        <test-method status="PASS" signature="openGoogle(java.lang.String)[pri:0, instance:test_GRID.testDP_Thread@9660f4e]" name="openGoogle" duration-ms="26739" started-at="2020-06-23T23:55:24 EEST" data-provider="dp1" finished-at="2020-06-23T23:55:51 EEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGoogle -->
+        <test-method status="PASS" signature="openGoogle(java.lang.String)[pri:0, instance:test_GRID.testDP_Thread@9660f4e]" name="openGoogle" duration-ms="10204" started-at="2020-06-23T23:55:24 EEST" data-provider="dp1" finished-at="2020-06-23T23:55:34 EEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGoogle -->
+        <test-method status="PASS" signature="openGoogle(java.lang.String)[pri:0, instance:test_GRID.testDP_Thread@9660f4e]" name="openGoogle" duration-ms="28338" started-at="2020-06-23T23:55:24 EEST" data-provider="dp1" finished-at="2020-06-23T23:55:53 EEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGoogle -->
+        <test-method status="PASS" signature="openGoogle(java.lang.String)[pri:0, instance:test_GRID.testDP_Thread@9660f4e]" name="openGoogle" duration-ms="53892" started-at="2020-06-23T23:55:24 EEST" data-provider="dp1" finished-at="2020-06-23T23:56:18 EEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGoogle -->
+        <test-method status="PASS" signature="openGoogle(java.lang.String)[pri:0, instance:test_GRID.testDP_Thread@9660f4e]" name="openGoogle" duration-ms="43947" started-at="2020-06-23T23:55:24 EEST" data-provider="dp1" finished-at="2020-06-23T23:56:08 EEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGoogle -->
+        <test-method status="PASS" signature="openGoogle(java.lang.String)[pri:0, instance:test_GRID.testDP_Thread@9660f4e]" name="openGoogle" duration-ms="45103" started-at="2020-06-23T23:55:24 EEST" data-provider="dp1" finished-at="2020-06-23T23:56:09 EEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGoogle -->
+      </class> <!-- test_GRID.testDP_Thread -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
