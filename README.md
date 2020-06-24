@@ -1,2 +1,0 @@
-# LearningTest
-Hello World!
