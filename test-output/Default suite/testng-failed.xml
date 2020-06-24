@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="test_GRID.testDP">
+      <class name="invokation.TestInvokation">
         <methods>
-          <include name="openGoogle" invocation-numbers="1 1 2 0 1 2"/>
+          <include name="doLogin123"/>
         </methods>
-      </class> <!-- test_GRID.testDP -->
+      </class> <!-- invokation.TestInvokation -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite123]">
+  <listeners>
+    <listener class-name="customListeners.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="Test123(failed)">
+    <classes>
+      <class name="testcases.TestSkip">
+        <methods>
+          <include name="isSkip"/>
+        </methods>
+      </class> <!-- testcases.TestSkip -->
+      <class name="testcases.TestCase2">
+        <methods>
+          <include name="tearDown"/>
+          <include name="validateTitles"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testcases.TestCase2 -->
+      <class name="regression.TestCase2">
+        <methods>
+          <include name="validateTitles"/>
+        </methods>
+      </class> <!-- regression.TestCase2 -->
+      <class name="testcases.TestFailure">
+        <methods>
+          <include name="doLogin"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testcases.TestFailure -->
+      <class name="testcases.TestCase3">
+        <methods>
+          <include name="doLogin"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="doUserReg"/>
+        </methods>
+      </class> <!-- testcases.TestCase3 -->
+    </classes>
+  </test> <!-- Test123(failed) -->
+</suite> <!-- Failed suite [Suite123] -->
