@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 public class TestParallelDP {
 	
-	@Test(dataProvider="dp1")
+/*	@Test(dataProvider="dp1")
 	public void doLogin(String b) throws InterruptedException {
 		
 		Date d= new Date();		
@@ -23,6 +23,6 @@ public class TestParallelDP {
 		
 		return data;
 		
-	}
+	}*/
 
 }
