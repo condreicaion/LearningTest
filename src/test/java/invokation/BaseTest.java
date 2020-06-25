@@ -11,6 +11,7 @@ import org.openqa.selenium.opera.OperaDriver;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class BaseTest {
+/*
 	
 	public WebDriver driver;
 	
@@ -32,5 +33,6 @@ public class BaseTest {
 		
 		return driver;
 	}
+*/
 
 }
